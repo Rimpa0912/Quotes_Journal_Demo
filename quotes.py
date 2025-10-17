@@ -30,3 +30,7 @@ else:
     quote = random.choice(all_quotes)
 
 print("Random Quote:", quote)
+
+with open("history.txt", "a") as file:
+    file.write(quote + "\n")
+
