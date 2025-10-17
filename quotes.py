@@ -1,0 +1,15 @@
+import random
+
+quotes = [
+    "The secret of getting ahead is getting started.",
+    "The elevator to success is out of order. You'll have to use the stairs, one step at a time",
+    "It is never too late to be what you might have been",
+    "Just one small positive thought in the morning can change your whole day.",
+    "Even if you're on the right track, you'll get run over if you just sit there.",
+    "Even a stopped clock is correct twice a day.",
+    "The future belongs to those who believe in the beauty of their dreams.",
+    "Setting goals is the first step in turning the invisible into the visible"
+]
+
+print("Motivational Quote of the Day:")
+print(random.choice(quotes))
