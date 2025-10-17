@@ -12,7 +12,7 @@ quotes = [
     "It always seems impossible until it's done.",
     "Love the life you live. Live the life you love.",
     "It is not the years of your life that count, but the life in your years.",
-    "Live, Laugh, Love."
+    "Keep pushin your limits."
 ]
 
 print("Motivational Quote of the Day:")
