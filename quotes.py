@@ -8,6 +8,10 @@ quotes = [
     "Even if you're on the right track, you'll get run over if you just sit there.",
     "Even a stopped clock is correct twice a day.",
     "The future belongs to those who believe in the beauty of their dreams.",
+    "An unexamined life is not worth living.",
+    "It always seems impossible until it's done.",
+    "Love the life you live. Live the life you love.",
+    "It is not the years of your life that count, but the life in your years.",
     "Setting goals is the first step in turning the invisible into the visible"
 ]
 
